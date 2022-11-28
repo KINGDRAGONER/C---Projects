@@ -1,4 +1,4 @@
-# C---Projects
+# C++ Projects
 
 
 1* Project person was just simple super early practice with structs on the side while I was taking Data Structers 2022.
