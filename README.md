@@ -7,7 +7,7 @@
 2* Project Login. Simple code to make a file with a username and pasword and read said file by inputing a username to confirm it exists if password is on the file.
 
 
-3*
+3*This code prompts the user to enter a YouTube video ID, retrieves the comments for that video using the YouTube API, and saves the comments to a file named "comments.txt". (Unfinished)
 
 
 4* Project planner. The code implements a command-line based budget planner program in C++ that allows users to track their income and expenses, add transactions, display a summary of their budget, and view transactions by category.
